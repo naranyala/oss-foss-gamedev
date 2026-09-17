@@ -29,16 +29,9 @@
 
 [github.com/RandyGaul/cute_framework](https://github.com/RandyGaul/cute_framework)
 
+[github.com/ezEngine/ezEngine](https://github.com/ezEngine/ezEngine)
+
 ## oss/foss games to play
-
-[github.com/wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
-
-[github.com/OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD)
-
-[github.com/Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-
-
----
 
 [github.com/00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
 
