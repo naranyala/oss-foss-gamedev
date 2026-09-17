@@ -33,6 +33,8 @@
 
 ## oss/foss games to play
 
+[github.com/SFTtech/openage](https://github.com/SFTtech/openage)
+
 [github.com/CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
 
 [github.com/00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
@@ -43,7 +45,7 @@
 
 [github.com/Anuken/Mindustry](https://github.com/Anuken/Mindustry)
 
-[github.com/ArnoAnsems/CatacombGL](https://github.com/ArnoAnsems/CatacombGL)
+[github.com/ArnoAnsems/CatacombGL](https://gitub.com/ArnoAnsems/CatacombGL)
 
 [github.com/Azarien/shadow-warrior](https://github.com/Azarien/shadow-warrior)
 
