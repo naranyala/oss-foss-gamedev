@@ -12,3 +12,5 @@
 [github.com/wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
 
 [github.com/OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD)
+
+[github.com/Anuken/Mindustry](https://github.com/Anuken/Mindustry)
