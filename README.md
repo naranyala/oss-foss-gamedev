@@ -3,6 +3,8 @@
 
 [github.com/4ian/GDevelop](https://github.com/4ian/GDevelop)
 
+[github.com/coronalabs/corona](https://github.com/coronalabs/corona)
+
 ## niche community game engine
 
 [github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)
