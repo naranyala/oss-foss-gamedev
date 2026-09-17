@@ -27,6 +27,8 @@
 
 [github.com/BobbyAnguelov/Esoterica](https://github.com/BobbyAnguelov/Esoterica)
 
+[github.com/RandyGaul/cute_framework](https://github.com/RandyGaul/cute_framework)
+
 ## oss/foss games to play
 
 [github.com/wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
