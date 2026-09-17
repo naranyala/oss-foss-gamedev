@@ -33,6 +33,8 @@
 
 ## oss/foss games to play
 
+[github.com/endless-sky/endless-sky](https://github.com/endless-sky/endless-sky)
+
 [github.com/SFTtech/openage](https://github.com/SFTtech/openage)
 
 [github.com/CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
