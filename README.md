@@ -45,6 +45,8 @@
 
 [github.com/spring/spring](https://github.com/spring/spring)
 
+[github.com/PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine)
+
 ## above 10k oss/foss games
 
 ## below 10k oss/foss games
