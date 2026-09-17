@@ -13,6 +13,8 @@
 
 [github.com/FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
 
+[github.com/stride3d/stride](https://github.com/stride3d/stride)
+
 ## niche community game engine
 
 [github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)
