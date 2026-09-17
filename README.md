@@ -37,6 +37,8 @@
 
 [github.com/oxygine/oxygine-framework](https://github.com/oxygine/oxygine-framework)
 
+[github.com/GaijinEntertainment/DagorEngine](https://github.com/GaijinEntertainment/DagorEngine)
+
 ## above 10k oss/foss games
 
 ## below 10k oss/foss games
