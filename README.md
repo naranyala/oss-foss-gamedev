@@ -7,6 +7,8 @@
 
 [github.com/turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine)
 
+[github.com/SedulousWorks/SedulousEngine](https://github.com/SedulousWorks/SedulousEngine)
+
 ## oss/foss games to play
 
 [github.com/wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
