@@ -1,5 +1,5 @@
 
-## huge community game engine
+## above 10k game engine
 
 [github.com/4ian/GDevelop](https://github.com/4ian/GDevelop)
 
@@ -15,7 +15,7 @@
 
 [github.com/stride3d/stride](https://github.com/stride3d/stride)
 
-## niche community game engine
+## below 10k game engine
 
 [github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)
 
@@ -31,7 +31,11 @@
 
 [github.com/ezEngine/ezEngine](https://github.com/ezEngine/ezEngine)
 
-## oss/foss games to play
+## above 10k oss/foss games
+
+## below 10k oss/foss games
+
+[github.com/ppy/osu](https://github.com/ppy/osu)
 
 [github.com/endless-sky/endless-sky](https://github.com/endless-sky/endless-sky)
 
