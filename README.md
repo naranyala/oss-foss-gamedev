@@ -9,6 +9,8 @@
 
 [github.com/MonoGame/MonoGame](https://github.com/MonoGame/MonoGame)
 
+[github.com/o3de/o3de](https://github.com/o3de/o3de)
+
 ## niche community game engine
 
 [github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)
