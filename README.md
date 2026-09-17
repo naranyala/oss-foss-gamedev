@@ -11,6 +11,8 @@
 
 [github.com/o3de/o3de](https://github.com/o3de/o3de)
 
+[github.com/FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
+
 ## niche community game engine
 
 [github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)
