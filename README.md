@@ -7,3 +7,4 @@
 
 ## oss/foss games to play
 
+[github.com/wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
