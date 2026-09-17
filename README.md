@@ -33,6 +33,8 @@
 
 ## oss/foss games to play
 
+[github.com/CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+
 [github.com/00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
 
 [github.com/AbyssEngine/AbyssEngine](https://github.com/AbyssEngine/AbyssEngine)
