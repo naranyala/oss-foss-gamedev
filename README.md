@@ -33,6 +33,8 @@
 
 [github.com/ezEngine/ezEngine](https://github.com/ezEngine/ezEngine)
 
+[github.com/Kode/Kore](https://github.com/Kode/Kore)
+
 ## above 10k oss/foss games
 
 ## below 10k oss/foss games
