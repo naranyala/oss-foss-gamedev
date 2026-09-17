@@ -10,3 +10,5 @@
 ## oss/foss games to play
 
 [github.com/wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
+
+[github.com/OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD)
