@@ -5,6 +5,8 @@
 
 [github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)
 
+[github.com/turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine)
+
 ## oss/foss games to play
 
 [github.com/wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
