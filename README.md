@@ -25,6 +25,8 @@
 
 [github.com/nem0/LumixEngine](https://github.com/nem0/LumixEngine)
 
+[github.com/BobbyAnguelov/Esoterica](https://github.com/BobbyAnguelov/Esoterica)
+
 ## oss/foss games to play
 
 [github.com/wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
