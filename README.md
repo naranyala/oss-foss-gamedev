@@ -1,6 +1,8 @@
 
 ## huge community game engine
 
+[github.com/4ian/GDevelop](https://github.com/4ian/GDevelop)
+
 ## niche community game engine
 
 [github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)
@@ -9,7 +11,7 @@
 
 [github.com/SedulousWorks/SedulousEngine](https://github.com/SedulousWorks/SedulousEngine)
 
-[https://github.com/nem0/LumixEngine](https://github.com/nem0/LumixEngine)
+[github.com/nem0/LumixEngine](https://github.com/nem0/LumixEngine)
 
 ## oss/foss games to play
 
