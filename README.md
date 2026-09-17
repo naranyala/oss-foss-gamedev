@@ -1,3 +1,5 @@
+> above or below 10k means the repo stars count, mainly to add meaningful separation for developer references
+
 
 ## above 10k game engine
 
@@ -34,6 +36,8 @@
 ## above 10k oss/foss games
 
 ## below 10k oss/foss games
+
+[github.com/luanti-org/luanti](https://github.com/luanti-org/luanti)
 
 [github.com/ppy/osu](https://github.com/ppy/osu)
 
