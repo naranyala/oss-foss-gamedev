@@ -39,6 +39,8 @@
 
 [github.com/GaijinEntertainment/DagorEngine](https://github.com/GaijinEntertainment/DagorEngine)
 
+[github.com/TorqueGameEngines/Torque3D](https://github.com/TorqueGameEngines/Torque3D)
+
 ## above 10k oss/foss games
 
 ## below 10k oss/foss games
