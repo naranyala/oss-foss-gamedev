@@ -9,6 +9,8 @@
 
 [github.com/SedulousWorks/SedulousEngine](https://github.com/SedulousWorks/SedulousEngine)
 
+[https://github.com/nem0/LumixEngine](https://github.com/nem0/LumixEngine)
+
 ## oss/foss games to play
 
 [github.com/wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
