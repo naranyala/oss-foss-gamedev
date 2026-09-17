@@ -47,6 +47,8 @@
 
 [github.com/PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine)
 
+[github.com/EQMG/Acid](https://github.com/EQMG/Acid)
+
 ## above 10k oss/foss games
 
 ## below 10k oss/foss games
